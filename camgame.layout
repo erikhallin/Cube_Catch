@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Start" />
+	<File name="definitions.h" open="1" top="1" tabpos="1">
+		<Cursor position="79" topLine="0" />
+	</File>
+	<File name="files_in_text.cpp" open="0" top="0" tabpos="23">
+		<Cursor position="18539702" topLine="56" />
+	</File>
+	<File name="files_in_text.h" open="1" top="0" tabpos="22">
+		<Cursor position="418" topLine="0" />
+	</File>
+	<File name="game.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="69781" topLine="418" />
+	</File>
+	<File name="game.h" open="1" top="0" tabpos="3">
+		<Cursor position="182" topLine="0" />
+	</File>
+	<File name="gamepad.cpp" open="1" top="0" tabpos="18">
+		<Cursor position="4826" topLine="0" />
+	</File>
+	<File name="gamepad.h" open="1" top="0" tabpos="17">
+		<Cursor position="1316" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="647" topLine="13" />
+	</File>
+	<File name="menu.cpp" open="1" top="0" tabpos="16">
+		<Cursor position="10221" topLine="0" />
+	</File>
+	<File name="menu.h" open="1" top="0" tabpos="15">
+		<Cursor position="718" topLine="0" />
+	</File>
+	<File name="model_obj.cpp" open="1" top="0" tabpos="14">
+		<Cursor position="4353" topLine="0" />
+	</File>
+	<File name="model_obj.h" open="1" top="0" tabpos="13">
+		<Cursor position="270" topLine="0" />
+	</File>
+	<File name="player.cpp" open="1" top="0" tabpos="8">
+		<Cursor position="59152" topLine="0" />
+	</File>
+	<File name="player.h" open="1" top="0" tabpos="7">
+		<Cursor position="332" topLine="0" />
+	</File>
+	<File name="powcube.cpp" open="1" top="0" tabpos="10">
+		<Cursor position="1467" topLine="0" />
+	</File>
+	<File name="powcube.h" open="1" top="0" tabpos="9">
+		<Cursor position="301" topLine="0" />
+	</File>
+	<File name="resource.h" open="0" top="0" tabpos="0">
+		<Cursor position="70" topLine="0" />
+	</File>
+	<File name="resource.rc" open="0" top="0" tabpos="0">
+		<Cursor position="74" topLine="0" />
+	</File>
+	<File name="sound.cpp" open="1" top="0" tabpos="21">
+		<Cursor position="15635" topLine="0" />
+	</File>
+	<File name="sound.h" open="1" top="0" tabpos="20">
+		<Cursor position="1629" topLine="0" />
+	</File>
+	<File name="sound_list.h" open="1" top="0" tabpos="19">
+		<Cursor position="332" topLine="0" />
+	</File>
+	<File name="station.cpp" open="1" top="0" tabpos="12">
+		<Cursor position="553" topLine="0" />
+	</File>
+	<File name="station.h" open="1" top="0" tabpos="11">
+		<Cursor position="76" topLine="0" />
+	</File>
+	<File name="world.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="5115" topLine="39" />
+	</File>
+	<File name="world.h" open="1" top="0" tabpos="5">
+		<Cursor position="745" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

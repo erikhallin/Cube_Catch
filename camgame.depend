@@ -1,0 +1,149 @@
+# depslib dependency file v1.0
+1399111842 source:c:\erikprogram\camgame\camgame - new\game.cpp
+	"game.h"
+
+1398517538 c:\erikprogram\camgame\camgame - new\game.h
+	<SOIL/SOIL.h>
+	<gl/gl.h>
+	<vector>
+	<time.h>
+	<math.h>
+	<iostream>
+	"files_in_text.h"
+	"base64.h"
+	"world.h"
+	"player.h"
+	"gamepad.h"
+	"powcube.h"
+	"station.h"
+	"model_obj.h"
+	"menu.h"
+	"sound.h"
+	"definitions.h"
+
+1396113783 c:\erikprogram\camgame\camgame - new\world.h
+	<gl/gl.h>
+	<stdlib.h>
+	<time.h>
+	<vector>
+	<iostream>
+	<math.h>
+	"definitions.h"
+
+1399111373 source:c:\erikprogram\camgame\camgame - new\world.cpp
+	"world.h"
+
+1396198915 source:c:\erikprogram\camgame\camgame - new\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	<gl/glu.h>
+	<fcntl.h>
+	<stdio.h>
+	<string>
+	<sstream>
+	<iostream>
+	"resource.h"
+	"game.h"
+
+1398963232 c:\erikprogram\camgame\camgame - new\player.h
+	<gl/gl.h>
+	"model_obj.h"
+	"definitions.h"
+	<iostream>
+
+1399111889 c:\erikprogram\camgame\camgame - new\definitions.h
+	<vector>
+
+1398963232 source:c:\erikprogram\camgame\camgame - new\player.cpp
+	"player.h"
+
+1388794167 c:\erikprogram\camgame\camgame - new\gamepad.h
+	<windows.h>
+	<D3D/XInput.h>
+
+1388793472 source:c:\erikprogram\camgame\camgame - new\gamepad.cpp
+	"gamepad.h"
+
+1395867393 c:\erikprogram\camgame\camgame - new\powcube.h
+	<gl/gl.h>
+	<math.h>
+	"definitions.h"
+	<iostream>
+
+1395867393 source:c:\erikprogram\camgame\camgame - new\powcube.cpp
+	"powcube.h"
+
+1394881584 c:\erikprogram\camgame\camgame - new\station.h
+	<iostream>
+	<gl/gl.h>
+	<vector>
+	"model_obj.h"
+	"definitions.h"
+
+1396201548 source:c:\erikprogram\camgame\camgame - new\station.cpp
+	"station.h"
+
+1398519113 c:\erikprogram\camgame\camgame - new\model_obj.h
+	<iostream>
+	<sstream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<gl/gl.h>
+	<stdlib.h>
+	<cctype>
+	"base64.h"
+	"files_in_text.h"
+	"definitions.h"
+
+1398519127 source:c:\erikprogram\camgame\camgame - new\model_obj.cpp
+	"model_obj.h"
+
+1396703839 c:\erikprogram\camgame\camgame - new\menu.h
+	<iostream>
+	<gl/gl.h>
+	<gl/glu.h>
+	<math.h>
+	"model_obj.h"
+	"definitions.h"
+
+1398514725 source:c:\erikprogram\camgame\camgame - new\menu.cpp
+	"menu.h"
+
+1396099491 c:\erikprogram\camgame\camgame - new\resource.h
+
+1396099497 source:c:\erikprogram\camgame\camgame - new\resource.rc
+	"resource.h"
+
+1396290612 c:\erikprogram\camgame\camgame - new\sound.h
+	"sound_list.h"
+	<cstdlib>
+	<vector>
+	<string>
+	<iostream>
+	<fstream>
+	<windows.h>
+	<AL/al.h>
+	<AL/alc.h>
+
+1398592990 c:\erikprogram\camgame\camgame - new\sound_list.h
+
+1396700249 source:c:\erikprogram\camgame\camgame - new\sound.cpp
+	<stdio.h>
+	"sound.h"
+
+1366055296 source:c:\erikprogram\camgame\camgame - new\base64.cpp
+	"base64.h"
+	<iostream>
+
+1366055296 c:\erikprogram\camgame\camgame - new\base64.h
+	<string>
+
+1398595036 source:c:\erikprogram\camgame\camgame - new\files_in_text.cpp
+	"files_in_text.h"
+
+1398592990 c:\erikprogram\camgame\camgame - new\files_in_text.h
+	<string>
+	<iostream>
+
